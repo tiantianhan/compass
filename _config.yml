@@ -1,3 +1,5 @@
+remote_theme: tiantianhan/tiantianhan.github.io
+
 # general configuration
 url: http://excentris.net
 baseurl: ''
