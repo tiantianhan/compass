@@ -11,7 +11,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Tina Han"
   # tagline will appear under the title (optional)
-  tagline: "Software developer</br>Class of 2020</br><a href='https://www.etc.cmu.edu'>Entertainment Technology Center</a>, Carnegie Mellon University</br></br>than2@andrew.cmu.edu</br>(412) 961 - 2774"
+  tagline: "Software developer</br>Class of 2020</br><a href='https://www.etc.cmu.edu'>Entertainment Technology Center</a>,</br>Carnegie Mellon University</br></br>than2@andrew.cmu.edu</br>(412) 961 - 2774"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
